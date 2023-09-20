@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+main{
+    background-color: white;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+h5{
+    margin-top: 20px;
+    font-weight: 50 ;
+}
+
+img{
+    width:200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.container{
+    background-color: rgb(222, 222, 225);
+    width: 210px;
+    height: 350px;
+  text-align: center;
+  padding: 8px;
+  margin: 20px;
+  font-size: small;
+  border-radius: 10px;
+}
